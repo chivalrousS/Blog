@@ -5,8 +5,8 @@ safe: false
 highlighter: pygments
 title: Blog
 description: What Hurts More
-theme: midnight
-disqusname: chivalrouss
+theme: hack
+disqusname: chivalrousS
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
 # those themes are all come from GitHub Pages Themes
