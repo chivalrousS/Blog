@@ -5,7 +5,7 @@ safe: false
 highlighter: pygments
 title: Blog
 description: What Hurts More
-theme: slate
+theme: midnight
 disqusname: chivalrousS
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
