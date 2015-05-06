@@ -1,5 +1,5 @@
 username: chivalrousS
-baseurl: /StrayBirds
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
